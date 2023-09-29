@@ -15,8 +15,6 @@ interface IProduct {
     product_attribute: IProdAttr[]
 }
 
-
-
 /**
  * 
  * @returns JSX Element
