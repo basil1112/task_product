@@ -16,7 +16,6 @@ interface IProduct {
 }
 
 /**
- * 
  * @returns JSX Element
  */
 const ProductContainer = () => {
